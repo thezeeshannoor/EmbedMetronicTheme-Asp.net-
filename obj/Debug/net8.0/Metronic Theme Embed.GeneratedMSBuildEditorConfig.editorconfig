@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Metronic_Theme_Embed
+build_property.RootNamespace = Metronic_Theme_Embed
+build_property.ProjectDir = F:\c#work\Metronic Theme Embed\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\c#work\Metronic Theme Embed
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Footer/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEZvb3RlclxfRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Header/Menu/_Apps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEhlYWRlclxNZW51XF9BcHBzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Header/Menu/_Dashboards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEhlYWRlclxNZW51XF9EYXNoYm9hcmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Header/Menu/_Help.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEhlYWRlclxNZW51XF9IZWxwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Header/Menu/_Layouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEhlYWRlclxNZW51XF9MYXlvdXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Header/Menu/_MyApps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEhlYWRlclxNZW51XF9NeUFwcHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Header/Menu/_Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEhlYWRlclxNZW51XF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Header/Menu/_Pages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEhlYWRlclxNZW51XF9QYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Header/Menu/_Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEhlYWRlclxNZW51XF9Qcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Header/_ActivityLog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEhlYWRlclxfQWN0aXZpdHlMb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Header/_ChatDrawer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEhlYWRlclxfQ2hhdERyYXdlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/Header/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXEhlYWRlclxfSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Layout/Demo1/Partials/SideBar/_DarkSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlbW8xXFBhcnRpYWxzXFNpZGVCYXJcX0RhcmtTaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Metronic Theme Embed/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-prsu8mhah0

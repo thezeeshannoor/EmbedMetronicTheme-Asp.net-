@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\c#work\\Metronic Theme Embed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\header\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\header\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\header\\menu\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\header\\menu\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\wwwroot\\assets\\js\\scripts.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:wwwroot\\assets\\js\\scripts.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\wwwroot\\assets\\js\\widgets.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:wwwroot\\assets\\js\\widgets.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\header\\menu\\_profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\header\\menu\\_profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\header\\_chatdrawer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\header\\_chatdrawer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\header\\menu\\_myapps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\header\\menu\\_myapps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\header\\_activitylog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\header\\_activitylog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\header\\menu\\_layouts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\header\\menu\\_layouts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\header\\menu\\_help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\header\\menu\\_help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\header\\menu\\_pages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\header\\menu\\_pages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\header\\menu\\_apps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\header\\menu\\_apps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\header\\menu\\_dashboards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\header\\menu\\_dashboards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|f:\\c#work\\metronic theme embed\\views\\layout\\demo1\\partials\\footer\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{838E61B6-D588-456B-A9A2-272CD652D1AA}|Metronic Theme Embed.csproj|solutionrelative:views\\layout\\demo1\\partials\\footer\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scripts.bundle.js",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\wwwroot\\assets\\js\\scripts.bundle.js",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\js\\scripts.bundle.js",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\wwwroot\\assets\\js\\scripts.bundle.js*",
+              "RelativeToolTip": "wwwroot\\assets\\js\\scripts.bundle.js*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-10T10:23:27.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_MyApps.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_MyApps.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_MyApps.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_MyApps.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_MyApps.cshtml",
+              "ViewState": "AQIAAOgAAAAAAAAAAADwv/sAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T10:04:48.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Notifications.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Notifications.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Notifications.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Notifications.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Notifications.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAALAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:38:15.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ChatDrawer.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\_ChatDrawer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Header\\_ChatDrawer.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\_ChatDrawer.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Header\\_ChatDrawer.cshtml",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAiwM0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:33:49.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Default.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Default.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Default.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwCUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T07:10:02.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Header\\_Header.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\_Header.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Header\\_Header.cshtml",
+              "ViewState": "AQIAAHsDAAAAAAAAAAAWwIIDAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T06:22:34.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Profile.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Profile.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Profile.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T10:17:14.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "widgets.bundle.js",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\wwwroot\\assets\\js\\widgets.bundle.js",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\js\\widgets.bundle.js",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\wwwroot\\assets\\js\\widgets.bundle.js",
+              "RelativeToolTip": "wwwroot\\assets\\js\\widgets.bundle.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-10T10:24:34.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T07:22:03.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Pages.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Pages.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Pages.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Pages.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Pages.cshtml",
+              "ViewState": "AQIAALEEAAAAAAAAAAAiwLcEAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:01:04.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Apps.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Apps.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Apps.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Apps.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Apps.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:05:25.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ActivityLog.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\_ActivityLog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Header\\_ActivityLog.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\_ActivityLog.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Header\\_ActivityLog.cshtml",
+              "ViewState": "AQIAANEAAAAAAAAAAAAiwOAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:22:28.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layouts.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Layouts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Layouts.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Layouts.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Layouts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:07:10.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Help.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Help.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Help.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Help.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Help.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvzAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:09:24.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Footer\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Footer\\_Footer.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Footer\\_Footer.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Footer\\_Footer.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T07:08:10.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T07:17:17.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Dashboards.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Dashboards.cshtml",
+              "RelativeDocumentMoniker": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Dashboards.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Dashboards.cshtml",
+              "RelativeToolTip": "Views\\Layout\\Demo1\\Partials\\Header\\Menu\\_Dashboards.cshtml",
+              "ViewState": "AQIAACsBAAAAAAAAAADwvz4BAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T07:58:16.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\c#work\\Metronic Theme Embed\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\c#work\\Metronic Theme Embed\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T07:26:29.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
